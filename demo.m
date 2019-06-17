@@ -214,7 +214,7 @@ max(cB)
 end
 
 
-function [t,x,hdr] = read_sac(filename)
+function [t,x,hdr] = read_sac(filename)  %Function definitions are not permitted in this context.？？？？
 %   [USAGE] 
 %   [t,x,hdr] = read_sac('filename');
 
